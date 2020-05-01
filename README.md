@@ -29,7 +29,7 @@ const uint8_t servoPin = D4;                         // replace with servo pin
 **Download [ESP8266 Filesystem Uploader](https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.5.0/ESP8266FS-0.5.0.zip)**
 
 
-**Download [Project file](https://github.com/rahuladitya303/ESP8266_BME280_Web_Server/releases/download/1.0/ESP8266_BME280_Web_Server.zip)**
+**Download [Project file](https://github.com/rahuladitya303/ESP8266_SERVO_CONTROLLER/releases/download/1.0/ESP8266_SERVO_CONTOLLER.zip)**
 
   
 # Project made and maintained by [Kumar Aditya](https://github.com/rahuladitya303/)
