@@ -12,6 +12,13 @@ const uint8_t servoPin = D4;                         // replace with servo pin
 
 ---
 
+# Screenshot 
+<img src= "https://github.com/rahuladitya303/ESP8266_SERVO_CONTROLLER/blob/master/screenshot.jpg" width = "fit-content">
+
+
+---
+
+
 # Downloads ⬇
 **Download [ESPAsyncWebServer library](https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip)**
   
